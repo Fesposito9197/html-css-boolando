@@ -8,7 +8,7 @@
  .debug main{
     
     height:1400px;
- }
+}
 .debug .container .row .col{
     height: 200px;
     width: 200px;
@@ -17,20 +17,20 @@
     
  /*COOMON*/
 
- .container{
+.container{
     max-width: 1200px;
     margin: auto;
- }
- .row{
+}
+.row{
     display: flex;
     justify-content: space-around;
     text-align: center;
     
- }
+}
  /*TYPO*/
- body{
+body{
      font-family: 'Roboto', sans-serif;
- }
+}
 .logo{
     width:120px;
 }
