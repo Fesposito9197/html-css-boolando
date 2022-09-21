@@ -74,6 +74,14 @@ body{
     background-color: green;
     padding: 0 10px;
 }
+.green-text-last{
+    position: absolute;
+    bottom: 40px;
+    color: white;
+    background-color: green;
+    padding: 0 10px;
+    
+}
 .heart{
     position: absolute;
     height: 50px;
@@ -81,7 +89,7 @@ body{
     background-color: white;
     bottom: 580px;
     left: 400px;
-    line-height: 20px;
+    line-height: 50px;
 }
 
 .foto{
@@ -97,6 +105,7 @@ body{
 }
 .price-red{
     color: red;
+    
 }
 .old-price{
     text-decoration-line: line-through;
@@ -104,8 +113,9 @@ body{
 
 /* FOOTER */
 footer{
-    background-color: #1a1a1a;
-    padding: 110px 0;
+    /* background-color: #1a1a1a; */
+    margin-top: 112px;
+    height: 110px;
     color: white;
 }
  
