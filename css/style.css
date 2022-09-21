@@ -1,16 +1,45 @@
-/* 
-RESET
-*/
+/*RESE*/
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
+ /*DEBUG*/
+ 
+
+    
+ /*COOMON*/
+
+ .container{
+    max-width: 1200px;
+    margin: auto;
+ }
+ .row{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+ }
+ /*TYPO*/
+ body{
+     font-family: 'Roboto', sans-serif;
+ }
+/* HEADER */
+.header-top{
+    background-color: #ff6900;
+    padding: 16px 0;
+}
+.nv ul{
+    list-style: none;
+    display: flex;
+}
+
+.nv ul li a{
+    margin: 0 10px;
+    text-decoration: none;
+    color: inherit;
+}
+ 
     
 
-/* 
-TYPO
-*/
-body{
-    font-family: 'Roboto', sans-serif;
-}
+/* MAIN */
+/* FOOTER */
