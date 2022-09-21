@@ -103,6 +103,17 @@ body{
     left: 400px;
     line-height: 50px;
 }
+.heart-red{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    bottom: 580px;
+    left: 400px;
+    line-height: 50px;
+    color: red;
+    display: none;
+}
 
 .foto{
     height: 640px;
@@ -127,9 +138,16 @@ body{
 .element:hover .foto-2{
     display: block;
 }
-.element:hover .foto{
+.element:hover .foto {
     display: none;
 }
+.element:hover .heart-red{
+    display: block;
+}
+.element:hover .heart{
+    display: none;
+}
+
 /* FOOTER */
 footer{
     background-color: #1a1a1a;
