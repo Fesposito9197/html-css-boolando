@@ -31,10 +31,15 @@
  body{
      font-family: 'Roboto', sans-serif;
  }
+.logo{
+    width:120px;
+}
 /* HEADER */
 .header-top{
     background-color: #ff6900;
     padding: 16px 0;
+    color: white;
+    font-weight: 400;
 }
 .nv ul{
     list-style: none;
@@ -50,7 +55,12 @@
     
 
 /* MAIN */
-.col{
-    flex-wrap: wrap;
+.photo-row-1{
+    padding: 45px 0;
 }
 /* FOOTER */
+footer{
+    background-color: #1a1a1a;
+    padding: 110px 0;
+    color: white;
+}
