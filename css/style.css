@@ -54,7 +54,10 @@ body{
 .photo-row-1{
     padding: 45px 0;
 }
-
+.foto{
+    height: 640px;
+    width: 450px;
+}
 /* FOOTER */
 footer{
     background-color: #1a1a1a;
