@@ -132,10 +132,12 @@ body{
 }
 .price-red{
     color: red;
+    font-weight: bold;
 }
     
 .old-price{
     text-decoration-line: line-through;
+    font-weight:bold ;
 }
 .element:hover .foto-2{
     display: block;
