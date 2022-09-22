@@ -18,7 +18,7 @@
  /*COOMON*/
 
 .container{
-    max-width: 1200px;
+    max-width: 1600px;
     margin: auto;
 }
 .row{
@@ -102,6 +102,7 @@ body{
     bottom: 580px;
     left: 400px;
     line-height: 50px;
+    font-size: 24px;
 }
 .heart-red{
     position: absolute;
@@ -113,6 +114,7 @@ body{
     line-height: 50px;
     color: red;
     display: none;
+    font-size: 24px;
 }
 
 .foto{
